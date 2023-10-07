@@ -9,4 +9,4 @@ A collection of my Machine Learning practices
 * [App Behavior Analysis](/app-behaviors-analysis/)
     * Predict if a user will subscribe to the paid membership of an app based on app behaviors
 * [Financial History Analysis](/financial-history-analysis/)
-    * Predict if a customer will default on a loan based on their financial history
+    * Predict if a customer will sign a loan based on their financial history
