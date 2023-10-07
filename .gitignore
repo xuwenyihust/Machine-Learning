@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 
 /practice
+app-behaviors-analysis/.DS_Store
+app-behaviors-analysis/dataset/.DS_Store
+.DS_Store
