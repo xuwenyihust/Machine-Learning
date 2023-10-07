@@ -10,3 +10,11 @@ A collection of my Machine Learning practices
     * Predict if a user will subscribe to the paid membership of an app based on app behaviors
 * [Financial History Analysis](/financial-history-analysis/)
     * Predict if a customer will sign a loan based on their financial history
+
+### SVM
+* [Financial History Analysis](/financial-history-analysis/)
+    * Predict if a customer will sign a loan based on their financial history
+
+### Random Forest
+* [Financial History Analysis](/financial-history-analysis/)
+    * Predict if a customer will sign a loan based on their financial history
