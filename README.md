@@ -18,3 +18,5 @@ A collection of my Machine Learning practices
 ### Random Forest
 * [Financial History Analysis](/financial-history-analysis/)
     * Predict if a customer will sign a loan based on their financial history
+* [Amazon Customer Review](/amazon-customer-review/)
+    * Sentiment analysis on Amazon product customer reviews
